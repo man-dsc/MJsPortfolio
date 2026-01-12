@@ -1,0 +1,1892 @@
+[
+    {
+        "country_code": "ABW",
+        "Reserves": 1468151730.0,
+        "Debt_GDP_Proxy": 2.0,
+        "Imports": 1485000000.0,
+        "Country_Name": "Aruba",
+        "Import_Cover": 11.86,
+        "Risk_Score": 0.27
+    },
+    {
+        "country_code": "AFG",
+        "Reserves": 9748946326.72,
+        "Debt_GDP_Proxy": -8.32,
+        "Imports": 3888000000.0,
+        "Country_Name": "Afghanistan",
+        "Import_Cover": 30.09,
+        "Risk_Score": -18.64
+    },
+    {
+        "country_code": "AGO",
+        "Reserves": 14242892504.62,
+        "Debt_GDP_Proxy": 6.96,
+        "Imports": 14765000000.0,
+        "Country_Name": "Angola",
+        "Import_Cover": 11.58,
+        "Risk_Score": 0.89
+    },
+    {
+        "country_code": "ALB",
+        "Reserves": 6515581527.6,
+        "Debt_GDP_Proxy": 21.55,
+        "Imports": 9612000000.0,
+        "Country_Name": "Albania",
+        "Import_Cover": 8.13,
+        "Risk_Score": 5.3
+    },
+    {
+        "country_code": "AND",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 2033000000.0,
+        "Country_Name": "Andorra",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "ARE",
+        "Reserves": 237931339945.4,
+        "Debt_GDP_Proxy": -5.92,
+        "Imports": 543887000000.0,
+        "Country_Name": "United Arab Emirates",
+        "Import_Cover": 5.25,
+        "Risk_Score": 6.36
+    },
+    {
+        "country_code": "ARG",
+        "Reserves": 29559610350.78,
+        "Debt_GDP_Proxy": 23.44,
+        "Imports": 60776000000.0,
+        "Country_Name": "Argentina",
+        "Import_Cover": 5.84,
+        "Risk_Score": 7.73
+    },
+    {
+        "country_code": "ARM",
+        "Reserves": 3685220142.95,
+        "Debt_GDP_Proxy": 14.07,
+        "Imports": 17067000000.0,
+        "Country_Name": "Armenia",
+        "Import_Cover": 2.59,
+        "Risk_Score": 10.35
+    },
+    {
+        "country_code": "ASM",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 711000000.0,
+        "Country_Name": "American Samoa",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "ATG",
+        "Reserves": 358440631.72,
+        "Debt_GDP_Proxy": 6.69,
+        "Imports": 823000000.0,
+        "Country_Name": "Antigua and Barbuda",
+        "Import_Cover": 5.23,
+        "Risk_Score": 7.22
+    },
+    {
+        "country_code": "AUS",
+        "Reserves": 60404058269.28,
+        "Debt_GDP_Proxy": 8.67,
+        "Imports": 296340000000.0,
+        "Country_Name": "Australia",
+        "Import_Cover": 2.45,
+        "Risk_Score": 10.13
+    },
+    {
+        "country_code": "AUT",
+        "Reserves": 35405646262.07,
+        "Debt_GDP_Proxy": 17.69,
+        "Imports": 212005000000.0,
+        "Country_Name": "Austria",
+        "Import_Cover": 2.0,
+        "Risk_Score": 11.18
+    },
+    {
+        "country_code": "AZE",
+        "Reserves": 12699124299.91,
+        "Debt_GDP_Proxy": -6.48,
+        "Imports": 21058000000.0,
+        "Country_Name": "Azerbaijan",
+        "Import_Cover": 7.24,
+        "Risk_Score": 4.33
+    },
+    {
+        "country_code": "BDI",
+        "Reserves": 90349885.18,
+        "Debt_GDP_Proxy": 24.76,
+        "Imports": 1023000000.0,
+        "Country_Name": "Burundi",
+        "Import_Cover": 1.06,
+        "Risk_Score": 12.59
+    },
+    {
+        "country_code": "BEL",
+        "Reserves": 41449463816.15,
+        "Debt_GDP_Proxy": 21.14,
+        "Imports": 514393000000.0,
+        "Country_Name": "Belgium",
+        "Import_Cover": 0.97,
+        "Risk_Score": 12.44
+    },
+    {
+        "country_code": "BEN",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": 1.3,
+        "Imports": 5230000000.0,
+        "Country_Name": "Benin",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.09
+    },
+    {
+        "country_code": "BFA",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": 4.61,
+        "Imports": 6429000000.0,
+        "Country_Name": "Burkina Faso",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.31
+    },
+    {
+        "country_code": "BGD",
+        "Reserves": 21394795733.04,
+        "Debt_GDP_Proxy": 14.75,
+        "Imports": 67880000000.0,
+        "Country_Name": "Bangladesh",
+        "Import_Cover": 3.78,
+        "Risk_Score": 9.2
+    },
+    {
+        "country_code": "BGR",
+        "Reserves": 43698277895.97,
+        "Debt_GDP_Proxy": 3.89,
+        "Imports": 53808000000.0,
+        "Country_Name": "Bulgaria",
+        "Import_Cover": 9.75,
+        "Risk_Score": 2.51
+    },
+    {
+        "country_code": "BHR",
+        "Reserves": 4948702759.13,
+        "Debt_GDP_Proxy": 16.44,
+        "Imports": 15610000000.0,
+        "Country_Name": "Bahrain",
+        "Import_Cover": 3.8,
+        "Risk_Score": 9.29
+    },
+    {
+        "country_code": "BHS",
+        "Reserves": 2511681591.43,
+        "Debt_GDP_Proxy": 24.13,
+        "Imports": 4944000000.0,
+        "Country_Name": "Bahamas, The",
+        "Import_Cover": 6.1,
+        "Risk_Score": 7.51
+    },
+    {
+        "country_code": "BIH",
+        "Reserves": 9418858050.23,
+        "Debt_GDP_Proxy": 2.54,
+        "Imports": 15847000000.0,
+        "Country_Name": "Bosnia and Herzegovina",
+        "Import_Cover": 7.13,
+        "Risk_Score": 5.04
+    },
+    {
+        "country_code": "BLR",
+        "Reserves": 8912194598.44,
+        "Debt_GDP_Proxy": -5.76,
+        "Imports": 45700000000.0,
+        "Country_Name": "Belarus",
+        "Import_Cover": 2.34,
+        "Risk_Score": 9.28
+    },
+    {
+        "country_code": "BLZ",
+        "Reserves": 498087320.74,
+        "Debt_GDP_Proxy": 14.09,
+        "Imports": 1455000000.0,
+        "Country_Name": "Belize",
+        "Import_Cover": 4.11,
+        "Risk_Score": 8.83
+    },
+    {
+        "country_code": "BMU",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 1271000000.0,
+        "Country_Name": "Bermuda",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "BOL",
+        "Reserves": 1977025889.31,
+        "Debt_GDP_Proxy": 26.42,
+        "Imports": 9904000000.0,
+        "Country_Name": "Bolivia",
+        "Import_Cover": 2.4,
+        "Risk_Score": 11.37
+    },
+    {
+        "country_code": "BRA",
+        "Reserves": 329732443813.38,
+        "Debt_GDP_Proxy": 50.96,
+        "Imports": 277954000000.0,
+        "Country_Name": "Brazil",
+        "Import_Cover": 14.24,
+        "Risk_Score": 1.16
+    },
+    {
+        "country_code": "BRB",
+        "Reserves": 1605919490.52,
+        "Debt_GDP_Proxy": 21.04,
+        "Imports": 2154000000.0,
+        "Country_Name": "Barbados",
+        "Import_Cover": 8.95,
+        "Risk_Score": 4.46
+    },
+    {
+        "country_code": "BRN",
+        "Reserves": 4414307817.05,
+        "Debt_GDP_Proxy": 26.3,
+        "Imports": 7294000000.0,
+        "Country_Name": "Brunei Darussalam",
+        "Import_Cover": 7.26,
+        "Risk_Score": 6.49
+    },
+    {
+        "country_code": "BTN",
+        "Reserves": 941017689.21,
+        "Debt_GDP_Proxy": 8.15,
+        "Imports": 1448000000.0,
+        "Country_Name": "Bhutan",
+        "Import_Cover": 7.8,
+        "Risk_Score": 4.74
+    },
+    {
+        "country_code": "BWA",
+        "Reserves": 3455661776.34,
+        "Debt_GDP_Proxy": 12.87,
+        "Imports": 7179000000.0,
+        "Country_Name": "Botswana",
+        "Import_Cover": 5.78,
+        "Risk_Score": 7.08
+    },
+    {
+        "country_code": "CAF",
+        "Reserves": 479592712.61,
+        "Debt_GDP_Proxy": 25.54,
+        "Imports": 533000000.0,
+        "Country_Name": "Central African Republic",
+        "Import_Cover": 10.8,
+        "Risk_Score": 2.91
+    },
+    {
+        "country_code": "CAN",
+        "Reserves": 119778473396.96,
+        "Debt_GDP_Proxy": 15.41,
+        "Imports": 574209000000.0,
+        "Country_Name": "Canada",
+        "Import_Cover": 2.5,
+        "Risk_Score": 10.52
+    },
+    {
+        "country_code": "CHE",
+        "Reserves": 909365744096.39,
+        "Debt_GDP_Proxy": 4.23,
+        "Imports": 369424000000.0,
+        "Country_Name": "Switzerland",
+        "Import_Cover": 29.54,
+        "Risk_Score": -17.26
+    },
+    {
+        "country_code": "CHL",
+        "Reserves": 44403009394.37,
+        "Debt_GDP_Proxy": 22.3,
+        "Imports": 84261000000.0,
+        "Country_Name": "Chile",
+        "Import_Cover": 6.32,
+        "Risk_Score": 7.16
+    },
+    {
+        "country_code": "CHN",
+        "Reserves": 3456024808739.12,
+        "Debt_GDP_Proxy": 45.96,
+        "Imports": 2584912000000.0,
+        "Country_Name": "China",
+        "Import_Cover": 16.04,
+        "Risk_Score": -0.98
+    },
+    {
+        "country_code": "CIV",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": 13.5,
+        "Imports": 16935000000.0,
+        "Country_Name": "Cote d'Ivoire",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.9
+    },
+    {
+        "country_code": "CMR",
+        "Reserves": 4882047276.68,
+        "Debt_GDP_Proxy": 3.69,
+        "Imports": 8200000000.0,
+        "Country_Name": "Cameroon",
+        "Import_Cover": 7.14,
+        "Risk_Score": 5.1
+    },
+    {
+        "country_code": "COD",
+        "Reserves": 5104181646.55,
+        "Debt_GDP_Proxy": 1.46,
+        "Imports": 26600000000.0,
+        "Country_Name": "Congo, Dem. Rep.",
+        "Import_Cover": 2.3,
+        "Risk_Score": 9.79
+    },
+    {
+        "country_code": "COG",
+        "Reserves": 715391052.36,
+        "Debt_GDP_Proxy": 17.24,
+        "Imports": 5218000000.0,
+        "Country_Name": "Congo, Rep.",
+        "Import_Cover": 1.65,
+        "Risk_Score": 11.5
+    },
+    {
+        "country_code": "COL",
+        "Reserves": 61897968642.42,
+        "Debt_GDP_Proxy": 6.1,
+        "Imports": 64105000000.0,
+        "Country_Name": "Colombia",
+        "Import_Cover": 11.59,
+        "Risk_Score": 0.82
+    },
+    {
+        "country_code": "COM",
+        "Reserves": 323945586.38,
+        "Debt_GDP_Proxy": 3.7,
+        "Imports": 358000000.0,
+        "Country_Name": "Comoros",
+        "Import_Cover": 10.86,
+        "Risk_Score": 1.39
+    },
+    {
+        "country_code": "CPV",
+        "Reserves": 783105557.83,
+        "Debt_GDP_Proxy": 11501945.53,
+        "Imports": 1802000000.0,
+        "Country_Name": "Cabo Verde",
+        "Import_Cover": 5.21,
+        "Risk_Score": 766803.15
+    },
+    {
+        "country_code": "CRI",
+        "Reserves": 14177018013.52,
+        "Debt_GDP_Proxy": 22.86,
+        "Imports": 26484000000.0,
+        "Country_Name": "Costa Rica",
+        "Import_Cover": 6.42,
+        "Risk_Score": 7.1
+    },
+    {
+        "country_code": "CUB",
+        "Reserves": 144018160.0,
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 8757000000.0,
+        "Country_Name": "Cuba",
+        "Import_Cover": 0.2,
+        "Risk_Score": 12.66
+    },
+    {
+        "country_code": "CUW",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 2057000000.0,
+        "Country_Name": "Curacao",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "CYM",
+        "Reserves": 234000000.0,
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 1985000000.0,
+        "Country_Name": "Cayman Islands",
+        "Import_Cover": 1.41,
+        "Risk_Score": 11.44
+    },
+    {
+        "country_code": "CYP",
+        "Reserves": 2087536372.48,
+        "Debt_GDP_Proxy": 11.58,
+        "Imports": 13325000000.0,
+        "Country_Name": "Cyprus",
+        "Import_Cover": 1.88,
+        "Risk_Score": 10.89
+    },
+    {
+        "country_code": "CZE",
+        "Reserves": 146281239761.97,
+        "Debt_GDP_Proxy": 11.87,
+        "Imports": 233027000000.0,
+        "Country_Name": "Czechia",
+        "Import_Cover": 7.53,
+        "Risk_Score": 5.26
+    },
+    {
+        "country_code": "DEU",
+        "Reserves": 377935574356.24,
+        "Debt_GDP_Proxy": 11.83,
+        "Imports": 1421796000000.0,
+        "Country_Name": "Germany",
+        "Import_Cover": 3.19,
+        "Risk_Score": 9.6
+    },
+    {
+        "country_code": "DJI",
+        "Reserves": 348725427.27,
+        "Debt_GDP_Proxy": 7.45,
+        "Imports": 5546000000.0,
+        "Country_Name": "Djibouti",
+        "Import_Cover": 0.75,
+        "Risk_Score": 11.74
+    },
+    {
+        "country_code": "DMA",
+        "Reserves": 155971242.02,
+        "Debt_GDP_Proxy": 10.41,
+        "Imports": 262000000.0,
+        "Country_Name": "Dominica",
+        "Import_Cover": 7.14,
+        "Risk_Score": 5.55
+    },
+    {
+        "country_code": "DNK",
+        "Reserves": 108405100882.54,
+        "Debt_GDP_Proxy": -5.78,
+        "Imports": 122841000000.0,
+        "Country_Name": "Denmark",
+        "Import_Cover": 10.59,
+        "Risk_Score": 1.02
+    },
+    {
+        "country_code": "DOM",
+        "Reserves": 13471257812.87,
+        "Debt_GDP_Proxy": 25.68,
+        "Imports": 29808000000.0,
+        "Country_Name": "Dominican Republic",
+        "Import_Cover": 5.42,
+        "Risk_Score": 8.29
+    },
+    {
+        "country_code": "DZA",
+        "Reserves": 83007108429.32,
+        "Debt_GDP_Proxy": 36.14,
+        "Imports": 45600000000.0,
+        "Country_Name": "Algeria",
+        "Import_Cover": 21.84,
+        "Risk_Score": -7.43
+    },
+    {
+        "country_code": "ECU",
+        "Reserves": 6907743954.5,
+        "Debt_GDP_Proxy": 4.31,
+        "Imports": 29491000000.0,
+        "Country_Name": "Ecuador",
+        "Import_Cover": 2.81,
+        "Risk_Score": 9.48
+    },
+    {
+        "country_code": "EGY",
+        "Reserves": 44921341018.47,
+        "Debt_GDP_Proxy": 55.66,
+        "Imports": 85986000000.0,
+        "Country_Name": "Egypt, Arab Rep.",
+        "Import_Cover": 6.27,
+        "Risk_Score": 9.44
+    },
+    {
+        "country_code": "ERI",
+        "Reserves": 191694416.4,
+        "Debt_GDP_Proxy": 104.13,
+        "Imports": 562000000.0,
+        "Country_Name": "Eritrea",
+        "Import_Cover": 4.09,
+        "Risk_Score": 14.85
+    },
+    {
+        "country_code": "ESP",
+        "Reserves": 107774094168.88,
+        "Debt_GDP_Proxy": 37.18,
+        "Imports": 471912000000.0,
+        "Country_Name": "Spain",
+        "Import_Cover": 2.74,
+        "Risk_Score": 11.74
+    },
+    {
+        "country_code": "EST",
+        "Reserves": 2074707140.31,
+        "Debt_GDP_Proxy": -2.84,
+        "Imports": 22434000000.0,
+        "Country_Name": "Estonia",
+        "Import_Cover": 1.11,
+        "Risk_Score": 10.7
+    },
+    {
+        "country_code": "ETH",
+        "Reserves": 3784387425.19,
+        "Debt_GDP_Proxy": 14.79,
+        "Imports": 21489000000.0,
+        "Country_Name": "Ethiopia",
+        "Import_Cover": 2.11,
+        "Risk_Score": 10.87
+    },
+    {
+        "country_code": "FIN",
+        "Reserves": 17992736653.45,
+        "Debt_GDP_Proxy": 12.96,
+        "Imports": 80676000000.0,
+        "Country_Name": "Finland",
+        "Import_Cover": 2.68,
+        "Risk_Score": 10.19
+    },
+    {
+        "country_code": "FJI",
+        "Reserves": 1599606710.18,
+        "Debt_GDP_Proxy": 40.38,
+        "Imports": 3096000000.0,
+        "Country_Name": "Fiji",
+        "Import_Cover": 6.2,
+        "Risk_Score": 8.49
+    },
+    {
+        "country_code": "FRA",
+        "Reserves": 282857002813.82,
+        "Debt_GDP_Proxy": 29.02,
+        "Imports": 750383000000.0,
+        "Country_Name": "France",
+        "Import_Cover": 4.52,
+        "Risk_Score": 9.41
+    },
+    {
+        "country_code": "FRO",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 1096198681.4,
+        "Country_Name": "Faroe Islands",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "FSM",
+        "Reserves": 497434120.42,
+        "Debt_GDP_Proxy": -22.6,
+        "Imports": 292000000.0,
+        "Country_Name": "Micronesia, Fed. Sts.",
+        "Import_Cover": 20.44,
+        "Risk_Score": -9.95
+    },
+    {
+        "country_code": "GAB",
+        "Reserves": 1447408422.7,
+        "Debt_GDP_Proxy": 9.5,
+        "Imports": 4000000000.0,
+        "Country_Name": "Gabon",
+        "Import_Cover": 4.34,
+        "Risk_Score": 8.29
+    },
+    {
+        "country_code": "GBR",
+        "Reserves": 174597843325.18,
+        "Debt_GDP_Proxy": 21.92,
+        "Imports": 815955000000.0,
+        "Country_Name": "United Kingdom",
+        "Import_Cover": 2.57,
+        "Risk_Score": 10.89
+    },
+    {
+        "country_code": "GEO",
+        "Reserves": 4447216641.42,
+        "Debt_GDP_Proxy": 4.88,
+        "Imports": 16889000000.0,
+        "Country_Name": "Georgia",
+        "Import_Cover": 3.16,
+        "Risk_Score": 9.17
+    },
+    {
+        "country_code": "GHA",
+        "Reserves": 3623904994.59,
+        "Debt_GDP_Proxy": 15.93,
+        "Imports": 15241000000.0,
+        "Country_Name": "Ghana",
+        "Import_Cover": 2.85,
+        "Risk_Score": 10.21
+    },
+    {
+        "country_code": "GIB",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 830000000.0,
+        "Country_Name": "Gibraltar",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "GIN",
+        "Reserves": 1887171051.4,
+        "Debt_GDP_Proxy": 13.54,
+        "Imports": 5869000000.0,
+        "Country_Name": "Guinea",
+        "Import_Cover": 3.86,
+        "Risk_Score": 9.04
+    },
+    {
+        "country_code": "GMB",
+        "Reserves": 577028229.49,
+        "Debt_GDP_Proxy": 28.13,
+        "Imports": 1505000000.0,
+        "Country_Name": "Gambia, The",
+        "Import_Cover": 4.6,
+        "Risk_Score": 9.27
+    },
+    {
+        "country_code": "GNB",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": 12.85,
+        "Imports": 487000000.0,
+        "Country_Name": "Guinea-Bissau",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "GNQ",
+        "Reserves": 1538461553.77,
+        "Debt_GDP_Proxy": 4.01,
+        "Imports": 1517000000.0,
+        "Country_Name": "Equatorial Guinea",
+        "Import_Cover": 12.17,
+        "Risk_Score": 0.1
+    },
+    {
+        "country_code": "GRC",
+        "Reserves": 15221540695.0,
+        "Debt_GDP_Proxy": 19.89,
+        "Imports": 91774000000.0,
+        "Country_Name": "Greece",
+        "Import_Cover": 1.99,
+        "Risk_Score": 11.34
+    },
+    {
+        "country_code": "GRD",
+        "Reserves": 423263143.57,
+        "Debt_GDP_Proxy": -24.96,
+        "Imports": 633000000.0,
+        "Country_Name": "Grenada",
+        "Import_Cover": 8.02,
+        "Risk_Score": 2.31
+    },
+    {
+        "country_code": "GRL",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 986000000.0,
+        "Country_Name": "Greenland",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "GTM",
+        "Reserves": 24412418011.78,
+        "Debt_GDP_Proxy": 6.75,
+        "Imports": 32488000000.0,
+        "Country_Name": "Guatemala",
+        "Import_Cover": 9.02,
+        "Risk_Score": 3.43
+    },
+    {
+        "country_code": "GUM",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 887000000.0,
+        "Country_Name": "Guam",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "GUY",
+        "Reserves": 1009772163.61,
+        "Debt_GDP_Proxy": 12.41,
+        "Imports": 6827000000.0,
+        "Country_Name": "Guyana",
+        "Import_Cover": 1.77,
+        "Risk_Score": 11.05
+    },
+    {
+        "country_code": "HKG",
+        "Reserves": 425554111033.18,
+        "Debt_GDP_Proxy": -21.11,
+        "Imports": 704141000000.0,
+        "Country_Name": "Hong Kong SAR, China",
+        "Import_Cover": 7.25,
+        "Risk_Score": 3.34
+    },
+    {
+        "country_code": "HND",
+        "Reserves": 8036257488.96,
+        "Debt_GDP_Proxy": 3.69,
+        "Imports": 17754000000.0,
+        "Country_Name": "Honduras",
+        "Import_Cover": 5.43,
+        "Risk_Score": 6.81
+    },
+    {
+        "country_code": "HRV",
+        "Reserves": 3335632832.65,
+        "Debt_GDP_Proxy": 8.7,
+        "Imports": 45863000000.0,
+        "Country_Name": "Croatia",
+        "Import_Cover": 0.87,
+        "Risk_Score": 11.71
+    },
+    {
+        "country_code": "HTI",
+        "Reserves": 2717628883.16,
+        "Debt_GDP_Proxy": 9.38,
+        "Imports": 3035000000.0,
+        "Country_Name": "Haiti",
+        "Import_Cover": 10.75,
+        "Risk_Score": 1.88
+    },
+    {
+        "country_code": "HUN",
+        "Reserves": 46422357553.9,
+        "Debt_GDP_Proxy": 17.11,
+        "Imports": 148854000000.0,
+        "Country_Name": "Hungary",
+        "Import_Cover": 3.74,
+        "Risk_Score": 9.4
+    },
+    {
+        "country_code": "IDN",
+        "Reserves": 155708275547.57,
+        "Debt_GDP_Proxy": 11.66,
+        "Imports": 233659000000.0,
+        "Country_Name": "Indonesia",
+        "Import_Cover": 8.0,
+        "Risk_Score": 4.78
+    },
+    {
+        "country_code": "IND",
+        "Reserves": 643042560625.54,
+        "Debt_GDP_Proxy": 26.37,
+        "Imports": 718261000000.0,
+        "Country_Name": "India",
+        "Import_Cover": 10.74,
+        "Risk_Score": 3.01
+    },
+    {
+        "country_code": "IRL",
+        "Reserves": 12697664211.81,
+        "Debt_GDP_Proxy": 7.86,
+        "Imports": 143110000000.0,
+        "Country_Name": "Ireland",
+        "Import_Cover": 1.06,
+        "Risk_Score": 11.46
+    },
+    {
+        "country_code": "IRN",
+        "Reserves": 7685456407.41,
+        "Debt_GDP_Proxy": 8.16,
+        "Imports": 69414000000.0,
+        "Country_Name": "Iran, Islamic Rep.",
+        "Import_Cover": 1.33,
+        "Risk_Score": 11.22
+    },
+    {
+        "country_code": "IRQ",
+        "Reserves": 100690954781.59,
+        "Debt_GDP_Proxy": 7.05,
+        "Imports": 87410000000.0,
+        "Country_Name": "Iraq",
+        "Import_Cover": 13.82,
+        "Risk_Score": -1.35
+    },
+    {
+        "country_code": "ISL",
+        "Reserves": 6402950468.76,
+        "Debt_GDP_Proxy": -2.67,
+        "Imports": 9809000000.0,
+        "Country_Name": "Iceland",
+        "Import_Cover": 7.83,
+        "Risk_Score": 3.99
+    },
+    {
+        "country_code": "ISR",
+        "Reserves": 214543676669.81,
+        "Debt_GDP_Proxy": 10.52,
+        "Imports": 91538000000.0,
+        "Country_Name": "Israel",
+        "Import_Cover": 28.13,
+        "Risk_Score": -15.42
+    },
+    {
+        "country_code": "ITA",
+        "Reserves": 290547246726.36,
+        "Debt_GDP_Proxy": 50.9,
+        "Imports": 615369000000.0,
+        "Country_Name": "Italy",
+        "Import_Cover": 5.67,
+        "Risk_Score": 9.73
+    },
+    {
+        "country_code": "JAM",
+        "Reserves": 4868643492.72,
+        "Debt_GDP_Proxy": 9.55,
+        "Imports": 7288000000.0,
+        "Country_Name": "Jamaica",
+        "Import_Cover": 8.02,
+        "Risk_Score": 4.62
+    },
+    {
+        "country_code": "JOR",
+        "Reserves": 21939099361.51,
+        "Debt_GDP_Proxy": 29.74,
+        "Imports": 26916000000.0,
+        "Country_Name": "Jordan",
+        "Import_Cover": 9.78,
+        "Risk_Score": 4.2
+    },
+    {
+        "country_code": "JPN",
+        "Reserves": 1230666979042.45,
+        "Debt_GDP_Proxy": 138.24,
+        "Imports": 743498000000.0,
+        "Country_Name": "Japan",
+        "Import_Cover": 19.86,
+        "Risk_Score": 1.35
+    },
+    {
+        "country_code": "KAZ",
+        "Reserves": 45807523139.26,
+        "Debt_GDP_Proxy": 12.08,
+        "Imports": 59133000000.0,
+        "Country_Name": "Kazakhstan",
+        "Import_Cover": 9.3,
+        "Risk_Score": 3.51
+    },
+    {
+        "country_code": "KEN",
+        "Reserves": 10066607177.35,
+        "Debt_GDP_Proxy": 22403054.1,
+        "Imports": 20088000000.0,
+        "Country_Name": "Kenya",
+        "Import_Cover": 6.01,
+        "Risk_Score": 1493542.93
+    },
+    {
+        "country_code": "KGZ",
+        "Reserves": 5088723593.74,
+        "Debt_GDP_Proxy": -2.1,
+        "Imports": 12214000000.0,
+        "Country_Name": "Kyrgyz Republic",
+        "Import_Cover": 5.0,
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "KHM",
+        "Reserves": 22505568572.54,
+        "Debt_GDP_Proxy": -12.65,
+        "Imports": 28699000000.0,
+        "Country_Name": "Cambodia",
+        "Import_Cover": 9.41,
+        "Risk_Score": 1.75
+    },
+    {
+        "country_code": "KIR",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 335000000.0,
+        "Country_Name": "Kiribati",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "KNA",
+        "Reserves": 294747744.69,
+        "Debt_GDP_Proxy": -24.92,
+        "Imports": 368000000.0,
+        "Country_Name": "St. Kitts and Nevis",
+        "Import_Cover": 9.61,
+        "Risk_Score": 0.73
+    },
+    {
+        "country_code": "KOR",
+        "Reserves": 418218648901.67,
+        "Debt_GDP_Proxy": 3.37,
+        "Imports": 631767000000.0,
+        "Country_Name": "Korea, Rep.",
+        "Import_Cover": 7.94,
+        "Risk_Score": 4.28
+    },
+    {
+        "country_code": "KWT",
+        "Reserves": 50727942998.13,
+        "Debt_GDP_Proxy": -21.86,
+        "Imports": 37063000000.0,
+        "Country_Name": "Kuwait",
+        "Import_Cover": 16.42,
+        "Risk_Score": -5.88
+    },
+    {
+        "country_code": "LAO",
+        "Reserves": 1769745792.21,
+        "Debt_GDP_Proxy": -0.95,
+        "Imports": 8663000000.0,
+        "Country_Name": "Lao PDR",
+        "Import_Cover": 2.45,
+        "Risk_Score": 9.49
+    },
+    {
+        "country_code": "LBN",
+        "Reserves": 33301277509.62,
+        "Debt_GDP_Proxy": 37.06,
+        "Imports": 17309000000.0,
+        "Country_Name": "Lebanon",
+        "Import_Cover": 23.09,
+        "Risk_Score": -8.62
+    },
+    {
+        "country_code": "LBR",
+        "Reserves": 599660417.53,
+        "Debt_GDP_Proxy": 16.83,
+        "Imports": 1667000000.0,
+        "Country_Name": "Liberia",
+        "Import_Cover": 4.32,
+        "Risk_Score": 8.81
+    },
+    {
+        "country_code": "LBY",
+        "Reserves": 92893708178.16,
+        "Debt_GDP_Proxy": -8.2,
+        "Imports": 18500000000.0,
+        "Country_Name": "Libya",
+        "Import_Cover": 60.26,
+        "Risk_Score": -48.8
+    },
+    {
+        "country_code": "LCA",
+        "Reserves": 406063791.48,
+        "Debt_GDP_Proxy": -11.87,
+        "Imports": 964000000.0,
+        "Country_Name": "St. Lucia",
+        "Import_Cover": 5.05,
+        "Risk_Score": 6.15
+    },
+    {
+        "country_code": "LKA",
+        "Reserves": 6093946546.37,
+        "Debt_GDP_Proxy": 21.16,
+        "Imports": 18842000000.0,
+        "Country_Name": "Sri Lanka",
+        "Import_Cover": 3.88,
+        "Risk_Score": 9.53
+    },
+    {
+        "country_code": "LSO",
+        "Reserves": 1007862057.2,
+        "Debt_GDP_Proxy": -19.14,
+        "Imports": 1855000000.0,
+        "Country_Name": "Lesotho",
+        "Import_Cover": 6.52,
+        "Risk_Score": 4.2
+    },
+    {
+        "country_code": "LTU",
+        "Reserves": 7406410382.11,
+        "Debt_GDP_Proxy": 3.97,
+        "Imports": 44748000000.0,
+        "Country_Name": "Lithuania",
+        "Import_Cover": 1.99,
+        "Risk_Score": 10.28
+    },
+    {
+        "country_code": "LUX",
+        "Reserves": 2789495616.04,
+        "Debt_GDP_Proxy": -2.4,
+        "Imports": 25093000000.0,
+        "Country_Name": "Luxembourg",
+        "Import_Cover": 1.33,
+        "Risk_Score": 10.51
+    },
+    {
+        "country_code": "LVA",
+        "Reserves": 5141113061.28,
+        "Debt_GDP_Proxy": 3.56,
+        "Imports": 23736000000.0,
+        "Country_Name": "Latvia",
+        "Import_Cover": 2.6,
+        "Risk_Score": 9.64
+    },
+    {
+        "country_code": "MAC",
+        "Reserves": 29391736000.0,
+        "Debt_GDP_Proxy": -73.24,
+        "Imports": 16011000000.0,
+        "Country_Name": "Macao SAR, China",
+        "Import_Cover": 22.03,
+        "Risk_Score": -14.91
+    },
+    {
+        "country_code": "MAF",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 806000000.0,
+        "Country_Name": "St. Martin (French part)",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "MAR",
+        "Reserves": 37133907722.79,
+        "Debt_GDP_Proxy": 21.25,
+        "Imports": 75699000000.0,
+        "Country_Name": "Morocco",
+        "Import_Cover": 5.89,
+        "Risk_Score": 7.53
+    },
+    {
+        "country_code": "MDA",
+        "Reserves": 5483515866.87,
+        "Debt_GDP_Proxy": 2.16,
+        "Imports": 9065000000.0,
+        "Country_Name": "Moldova",
+        "Import_Cover": 7.26,
+        "Risk_Score": 4.88
+    },
+    {
+        "country_code": "MDG",
+        "Reserves": 2784591092.62,
+        "Debt_GDP_Proxy": 5.79,
+        "Imports": 4833000000.0,
+        "Country_Name": "Madagascar",
+        "Import_Cover": 6.91,
+        "Risk_Score": 5.47
+    },
+    {
+        "country_code": "MDV",
+        "Reserves": 673885912.69,
+        "Debt_GDP_Proxy": 57.19,
+        "Imports": 3637000000.0,
+        "Country_Name": "Maldives",
+        "Import_Cover": 2.22,
+        "Risk_Score": 13.59
+    },
+    {
+        "country_code": "MEX",
+        "Reserves": 232035392464.82,
+        "Debt_GDP_Proxy": 25.31,
+        "Imports": 643974000000.0,
+        "Country_Name": "Mexico",
+        "Import_Cover": 4.32,
+        "Risk_Score": 9.36
+    },
+    {
+        "country_code": "MHL",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 100000000.0,
+        "Country_Name": "Marshall Islands",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "MKD",
+        "Reserves": 5251936213.51,
+        "Debt_GDP_Proxy": 19.07,
+        "Imports": 11966000000.0,
+        "Country_Name": "North Macedonia",
+        "Import_Cover": 5.27,
+        "Risk_Score": 8.0
+    },
+    {
+        "country_code": "MLI",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": 11.2,
+        "Imports": 7072000000.0,
+        "Country_Name": "Mali",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.75
+    },
+    {
+        "country_code": "MLT",
+        "Reserves": 1417638671.81,
+        "Debt_GDP_Proxy": 13.88,
+        "Imports": 9461000000.0,
+        "Country_Name": "Malta",
+        "Import_Cover": 1.8,
+        "Risk_Score": 11.13
+    },
+    {
+        "country_code": "MMR",
+        "Reserves": 9337819633.16,
+        "Debt_GDP_Proxy": 26.09,
+        "Imports": 12452000000.0,
+        "Country_Name": "Myanmar",
+        "Import_Cover": 9.0,
+        "Risk_Score": 4.74
+    },
+    {
+        "country_code": "MNE",
+        "Reserves": 1741494536.64,
+        "Debt_GDP_Proxy": 0.64,
+        "Imports": 4400000000.0,
+        "Country_Name": "Montenegro",
+        "Import_Cover": 4.75,
+        "Risk_Score": 7.29
+    },
+    {
+        "country_code": "MNG",
+        "Reserves": 5507944030.51,
+        "Debt_GDP_Proxy": -5.41,
+        "Imports": 11615000000.0,
+        "Country_Name": "Mongolia",
+        "Import_Cover": 5.69,
+        "Risk_Score": 5.95
+    },
+    {
+        "country_code": "MNP",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 546000000.0,
+        "Country_Name": "Northern Mariana Islands",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "MOZ",
+        "Reserves": 3842855300.7,
+        "Debt_GDP_Proxy": 18.23,
+        "Imports": 9210000000.0,
+        "Country_Name": "Mozambique",
+        "Import_Cover": 5.01,
+        "Risk_Score": 8.21
+    },
+    {
+        "country_code": "MRT",
+        "Reserves": 2038562789.4,
+        "Debt_GDP_Proxy": 5.08,
+        "Imports": 4815000000.0,
+        "Country_Name": "Mauritania",
+        "Import_Cover": 5.08,
+        "Risk_Score": 7.26
+    },
+    {
+        "country_code": "MUS",
+        "Reserves": 8506134285.1,
+        "Debt_GDP_Proxy": 31.65,
+        "Imports": 6843000000.0,
+        "Country_Name": "Mauritius",
+        "Import_Cover": 14.92,
+        "Risk_Score": -0.81
+    },
+    {
+        "country_code": "MWI",
+        "Reserves": 594498493.62,
+        "Debt_GDP_Proxy": 23.76,
+        "Imports": 3264000000.0,
+        "Country_Name": "Malawi",
+        "Import_Cover": 2.19,
+        "Risk_Score": 11.4
+    },
+    {
+        "country_code": "MYS",
+        "Reserves": 116229205257.76,
+        "Debt_GDP_Proxy": 18.44,
+        "Imports": 300355000000.0,
+        "Country_Name": "Malaysia",
+        "Import_Cover": 4.64,
+        "Risk_Score": 8.59
+    },
+    {
+        "country_code": "NAM",
+        "Reserves": 3355524014.61,
+        "Debt_GDP_Proxy": 11.79,
+        "Imports": 8882000000.0,
+        "Country_Name": "Namibia",
+        "Import_Cover": 4.53,
+        "Risk_Score": 8.25
+    },
+    {
+        "country_code": "NCL",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 2276000000.0,
+        "Country_Name": "New Caledonia",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "NER",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": 5.44,
+        "Imports": 2742000000.0,
+        "Country_Name": "Niger",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.36
+    },
+    {
+        "country_code": "NGA",
+        "Reserves": 38612493466.6,
+        "Debt_GDP_Proxy": 8.64,
+        "Imports": 41263000000.0,
+        "Country_Name": "Nigeria",
+        "Import_Cover": 11.23,
+        "Risk_Score": 1.35
+    },
+    {
+        "country_code": "NIC",
+        "Reserves": 6104867094.01,
+        "Debt_GDP_Proxy": -3.29,
+        "Imports": 11468000000.0,
+        "Country_Name": "Nicaragua",
+        "Import_Cover": 6.39,
+        "Risk_Score": 5.39
+    },
+    {
+        "country_code": "NLD",
+        "Reserves": 79129152086.19,
+        "Debt_GDP_Proxy": 11.87,
+        "Imports": 814044000000.0,
+        "Country_Name": "Netherlands",
+        "Import_Cover": 1.17,
+        "Risk_Score": 11.63
+    },
+    {
+        "country_code": "NOR",
+        "Reserves": 81241559661.5,
+        "Debt_GDP_Proxy": -15.58,
+        "Imports": 99786000000.0,
+        "Country_Name": "Norway",
+        "Import_Cover": 9.77,
+        "Risk_Score": 1.19
+    },
+    {
+        "country_code": "NPL",
+        "Reserves": 12456122668.89,
+        "Debt_GDP_Proxy": 21.74,
+        "Imports": 12316000000.0,
+        "Country_Name": "Nepal",
+        "Import_Cover": 12.14,
+        "Risk_Score": 1.31
+    },
+    {
+        "country_code": "NRU",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 63000000.0,
+        "Country_Name": "Nauru",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "NZL",
+        "Reserves": 22065156553.54,
+        "Debt_GDP_Proxy": 7.4,
+        "Imports": 46862000000.0,
+        "Country_Name": "New Zealand",
+        "Import_Cover": 5.65,
+        "Risk_Score": 6.84
+    },
+    {
+        "country_code": "OMN",
+        "Reserves": 18286526118.0,
+        "Debt_GDP_Proxy": -9.55,
+        "Imports": 43464000000.0,
+        "Country_Name": "Oman",
+        "Import_Cover": 5.05,
+        "Risk_Score": 6.31
+    },
+    {
+        "country_code": "PAK",
+        "Reserves": 18407745860.67,
+        "Debt_GDP_Proxy": 33.64,
+        "Imports": 56449000000.0,
+        "Country_Name": "Pakistan",
+        "Import_Cover": 3.91,
+        "Risk_Score": 10.33
+    },
+    {
+        "country_code": "PAN",
+        "Reserves": 6855505288.44,
+        "Debt_GDP_Proxy": -11.37,
+        "Imports": 26687000000.0,
+        "Country_Name": "Panama",
+        "Import_Cover": 3.08,
+        "Risk_Score": 8.16
+    },
+    {
+        "country_code": "PER",
+        "Reserves": 79246042707.93,
+        "Debt_GDP_Proxy": -4.68,
+        "Imports": 55149000000.0,
+        "Country_Name": "Peru",
+        "Import_Cover": 17.24,
+        "Risk_Score": -5.56
+    },
+    {
+        "country_code": "PHL",
+        "Reserves": 106195050244.1,
+        "Debt_GDP_Proxy": 30.24,
+        "Imports": 134882000000.0,
+        "Country_Name": "Philippines",
+        "Import_Cover": 9.45,
+        "Risk_Score": 4.57
+    },
+    {
+        "country_code": "PLW",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 138000000.0,
+        "Country_Name": "Palau",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "PNG",
+        "Reserves": 3901331641.41,
+        "Debt_GDP_Proxy": 18.21,
+        "Imports": 4686000000.0,
+        "Country_Name": "Papua New Guinea",
+        "Import_Cover": 9.99,
+        "Risk_Score": 3.22
+    },
+    {
+        "country_code": "POL",
+        "Reserves": 223114909804.17,
+        "Debt_GDP_Proxy": 12.54,
+        "Imports": 379314000000.0,
+        "Country_Name": "Poland",
+        "Import_Cover": 7.06,
+        "Risk_Score": 5.78
+    },
+    {
+        "country_code": "PRK",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 2359000000.0,
+        "Country_Name": "Korea, Dem. People's Rep.",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "PRT",
+        "Reserves": 42434182603.51,
+        "Debt_GDP_Proxy": 28.32,
+        "Imports": 116295000000.0,
+        "Country_Name": "Portugal",
+        "Import_Cover": 4.38,
+        "Risk_Score": 9.51
+    },
+    {
+        "country_code": "PRY",
+        "Reserves": 9885683629.59,
+        "Debt_GDP_Proxy": -5.37,
+        "Imports": 17210000000.0,
+        "Country_Name": "Paraguay",
+        "Import_Cover": 6.89,
+        "Risk_Score": 4.75
+    },
+    {
+        "country_code": "PSE",
+        "Reserves": 1328000000.0,
+        "Debt_GDP_Proxy": 17.73,
+        "Imports": "N/A",
+        "Country_Name": "West Bank and Gaza",
+        "Import_Cover": "N/A",
+        "Risk_Score": 7.18
+    },
+    {
+        "country_code": "PYF",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 2291000000.0,
+        "Country_Name": "French Polynesia",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "QAT",
+        "Reserves": 53987415590.4,
+        "Debt_GDP_Proxy": 25.27,
+        "Imports": 35802000000.0,
+        "Country_Name": "Qatar",
+        "Import_Cover": 18.1,
+        "Risk_Score": -4.41
+    },
+    {
+        "country_code": "ROU",
+        "Reserves": 73391248091.27,
+        "Debt_GDP_Proxy": 6.35,
+        "Imports": 136419000000.0,
+        "Country_Name": "Romania",
+        "Import_Cover": 6.46,
+        "Risk_Score": 5.97
+    },
+    {
+        "country_code": "RUS",
+        "Reserves": 597217063819.2,
+        "Debt_GDP_Proxy": -6.51,
+        "Imports": 300124000000.0,
+        "Country_Name": "Russian Federation",
+        "Import_Cover": 23.88,
+        "Risk_Score": -12.31
+    },
+    {
+        "country_code": "RWA",
+        "Reserves": 2406450701.62,
+        "Debt_GDP_Proxy": -1.91,
+        "Imports": 6028000000.0,
+        "Country_Name": "Rwanda",
+        "Import_Cover": 4.79,
+        "Risk_Score": 7.08
+    },
+    {
+        "country_code": "SAU",
+        "Reserves": 463869589071.03,
+        "Debt_GDP_Proxy": -15.79,
+        "Imports": 232806000000.0,
+        "Country_Name": "Saudi Arabia",
+        "Import_Cover": 23.91,
+        "Risk_Score": -12.96
+    },
+    {
+        "country_code": "SDN",
+        "Reserves": 177933851.81,
+        "Debt_GDP_Proxy": 6.59,
+        "Imports": 4911000000.0,
+        "Country_Name": "Sudan",
+        "Import_Cover": 0.43,
+        "Risk_Score": 12.0
+    },
+    {
+        "country_code": "SEN",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": 18.07,
+        "Imports": 11807000000.0,
+        "Country_Name": "Senegal",
+        "Import_Cover": "N/A",
+        "Risk_Score": 7.2
+    },
+    {
+        "country_code": "SGP",
+        "Reserves": 383945953550.79,
+        "Debt_GDP_Proxy": 16.32,
+        "Imports": 458686000000.0,
+        "Country_Name": "Singapore",
+        "Import_Cover": 10.04,
+        "Risk_Score": 3.04
+    },
+    {
+        "country_code": "SLB",
+        "Reserves": 688220066.97,
+        "Debt_GDP_Proxy": 0.82,
+        "Imports": 739000000.0,
+        "Country_Name": "Solomon Islands",
+        "Import_Cover": 11.18,
+        "Risk_Score": 0.88
+    },
+    {
+        "country_code": "SLE",
+        "Reserves": 495698793.82,
+        "Debt_GDP_Proxy": 16.64,
+        "Imports": 2049000000.0,
+        "Country_Name": "Sierra Leone",
+        "Import_Cover": 2.9,
+        "Risk_Score": 10.21
+    },
+    {
+        "country_code": "SLV",
+        "Reserves": 3704746691.23,
+        "Debt_GDP_Proxy": 47.46,
+        "Imports": 15973000000.0,
+        "Country_Name": "El Salvador",
+        "Import_Cover": 2.78,
+        "Risk_Score": 12.38
+    },
+    {
+        "country_code": "SMR",
+        "Reserves": 836088074.05,
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": "N/A",
+        "Country_Name": "San Marino",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "SOM",
+        "Reserves": 23109678.98,
+        "Debt_GDP_Proxy": -0.0,
+        "Imports": 4017000000.0,
+        "Country_Name": "Somalia, Fed. Rep.",
+        "Import_Cover": 0.07,
+        "Risk_Score": 11.93
+    },
+    {
+        "country_code": "SRB",
+        "Reserves": 30484164151.25,
+        "Debt_GDP_Proxy": -0.28,
+        "Imports": 42245000000.0,
+        "Country_Name": "Serbia",
+        "Import_Cover": 8.66,
+        "Risk_Score": 3.32
+    },
+    {
+        "country_code": "SSD",
+        "Reserves": 72880855.22,
+        "Debt_GDP_Proxy": 42.62,
+        "Imports": 1184000000.0,
+        "Country_Name": "South Sudan",
+        "Import_Cover": 0.74,
+        "Risk_Score": 14.1
+    },
+    {
+        "country_code": "STP",
+        "Reserves": 46247347.89,
+        "Debt_GDP_Proxy": 8.59,
+        "Imports": 153000000.0,
+        "Country_Name": "Sao Tome and Principe",
+        "Import_Cover": 3.63,
+        "Risk_Score": 8.95
+    },
+    {
+        "country_code": "SUR",
+        "Reserves": 1632317813.4,
+        "Debt_GDP_Proxy": -4.2,
+        "Imports": 1752000000.0,
+        "Country_Name": "Suriname",
+        "Import_Cover": 11.18,
+        "Risk_Score": 0.54
+    },
+    {
+        "country_code": "SVK",
+        "Reserves": 14451734758.15,
+        "Debt_GDP_Proxy": 21.04,
+        "Imports": 112968000000.0,
+        "Country_Name": "Slovak Republic",
+        "Import_Cover": 1.54,
+        "Risk_Score": 11.87
+    },
+    {
+        "country_code": "SVN",
+        "Reserves": 2832429184.63,
+        "Debt_GDP_Proxy": 13.76,
+        "Imports": 84332000000.0,
+        "Country_Name": "Slovenia",
+        "Import_Cover": 0.4,
+        "Risk_Score": 12.51
+    },
+    {
+        "country_code": "SWE",
+        "Reserves": 62569356006.72,
+        "Debt_GDP_Proxy": 5.08,
+        "Imports": 189158000000.0,
+        "Country_Name": "Sweden",
+        "Import_Cover": 3.97,
+        "Risk_Score": 8.37
+    },
+    {
+        "country_code": "SWZ",
+        "Reserves": 479261051.17,
+        "Debt_GDP_Proxy": 1.94,
+        "Imports": 2072000000.0,
+        "Country_Name": "Eswatini",
+        "Import_Cover": 2.78,
+        "Risk_Score": 9.35
+    },
+    {
+        "country_code": "SXM",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 1239000000.0,
+        "Country_Name": "Sint Maarten (Dutch part)",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "SYC",
+        "Reserves": 773677575.74,
+        "Debt_GDP_Proxy": 11.26,
+        "Imports": 1446000000.0,
+        "Country_Name": "Seychelles",
+        "Import_Cover": 6.42,
+        "Risk_Score": 6.33
+    },
+    {
+        "country_code": "SYR",
+        "Reserves": 20631907296.87,
+        "Debt_GDP_Proxy": 14.1,
+        "Imports": 6283000000.0,
+        "Country_Name": "Syrian Arab Republic",
+        "Import_Cover": 39.41,
+        "Risk_Score": -26.47
+    },
+    {
+        "country_code": "TCA",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 451000000.0,
+        "Country_Name": "Turks and Caicos Islands",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "TCD",
+        "Reserves": 1049788251.3,
+        "Debt_GDP_Proxy": 12.63,
+        "Imports": 2100000000.0,
+        "Country_Name": "Chad",
+        "Import_Cover": 6.0,
+        "Risk_Score": 6.84
+    },
+    {
+        "country_code": "TGO",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": 7.01,
+        "Imports": 3472000000.0,
+        "Country_Name": "Togo",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.47
+    },
+    {
+        "country_code": "THA",
+        "Reserves": 236933974075.01,
+        "Debt_GDP_Proxy": 40.84,
+        "Imports": 306810000000.0,
+        "Country_Name": "Thailand",
+        "Import_Cover": 9.27,
+        "Risk_Score": 5.46
+    },
+    {
+        "country_code": "TJK",
+        "Reserves": 3303825209.69,
+        "Debt_GDP_Proxy": -2.97,
+        "Imports": 7010000000.0,
+        "Country_Name": "Tajikistan",
+        "Import_Cover": 5.66,
+        "Risk_Score": 6.15
+    },
+    {
+        "country_code": "TKM",
+        "Reserves": 1513006832.37,
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 3834000000.0,
+        "Country_Name": "Turkmenistan",
+        "Import_Cover": 4.74,
+        "Risk_Score": 8.12
+    },
+    {
+        "country_code": "TLS",
+        "Reserves": 736966607.08,
+        "Debt_GDP_Proxy": -39.9,
+        "Imports": 968000000.0,
+        "Country_Name": "Timor-Leste",
+        "Import_Cover": 9.14,
+        "Risk_Score": 0.2
+    },
+    {
+        "country_code": "TON",
+        "Reserves": 377298748.75,
+        "Debt_GDP_Proxy": -19.8,
+        "Imports": 295000000.0,
+        "Country_Name": "Tonga",
+        "Import_Cover": 15.35,
+        "Risk_Score": -4.67
+    },
+    {
+        "country_code": "TTO",
+        "Reserves": 5601120709.16,
+        "Debt_GDP_Proxy": 8.53,
+        "Imports": 7669000000.0,
+        "Country_Name": "Trinidad and Tobago",
+        "Import_Cover": 8.76,
+        "Risk_Score": 3.8
+    },
+    {
+        "country_code": "TUN",
+        "Reserves": 9343597097.76,
+        "Debt_GDP_Proxy": 24641180.33,
+        "Imports": 26027000000.0,
+        "Country_Name": "Tunisia",
+        "Import_Cover": 4.31,
+        "Risk_Score": 1642753.05
+    },
+    {
+        "country_code": "TUR",
+        "Reserves": 154773780178.17,
+        "Debt_GDP_Proxy": 13.78,
+        "Imports": 344013000000.0,
+        "Country_Name": "Turkiye",
+        "Import_Cover": 5.4,
+        "Risk_Score": 7.52
+    },
+    {
+        "country_code": "TUV",
+        "Reserves": "N/A",
+        "Debt_GDP_Proxy": "N/A",
+        "Imports": 25000000.0,
+        "Country_Name": "Tuvalu",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.86
+    },
+    {
+        "country_code": "TZA",
+        "Reserves": 5049646420.48,
+        "Debt_GDP_Proxy": 5.6,
+        "Imports": 14279000000.0,
+        "Country_Name": "Tanzania",
+        "Import_Cover": 4.24,
+        "Risk_Score": 8.13
+    },
+    {
+        "country_code": "UGA",
+        "Reserves": 3358514649.9,
+        "Debt_GDP_Proxy": 19.5,
+        "Imports": 14200000000.0,
+        "Country_Name": "Uganda",
+        "Import_Cover": 2.84,
+        "Risk_Score": 10.46
+    },
+    {
+        "country_code": "UKR",
+        "Reserves": 43780549772.84,
+        "Debt_GDP_Proxy": 17.77,
+        "Imports": 70499000000.0,
+        "Country_Name": "Ukraine",
+        "Import_Cover": 7.45,
+        "Risk_Score": 5.73
+    },
+    {
+        "country_code": "URY",
+        "Reserves": 17377698943.22,
+        "Debt_GDP_Proxy": 6.58,
+        "Imports": 12523000000.0,
+        "Country_Name": "Uruguay",
+        "Import_Cover": 16.65,
+        "Risk_Score": -4.21
+    },
+    {
+        "country_code": "USA",
+        "Reserves": 910036546651.5,
+        "Debt_GDP_Proxy": 52.89,
+        "Imports": 3359385000000.0,
+        "Country_Name": "United States",
+        "Import_Cover": 3.25,
+        "Risk_Score": 12.28
+    },
+    {
+        "country_code": "UZB",
+        "Reserves": 41236890133.33,
+        "Debt_GDP_Proxy": -14.38,
+        "Imports": 35238000000.0,
+        "Country_Name": "Uzbekistan",
+        "Import_Cover": 14.04,
+        "Risk_Score": -3.0
+    },
+    {
+        "country_code": "VCT",
+        "Reserves": 316823948.57,
+        "Debt_GDP_Proxy": 12.53,
+        "Imports": 506000000.0,
+        "Country_Name": "St. Vincent and the Grenadines",
+        "Import_Cover": 7.51,
+        "Risk_Score": 5.32
+    },
+    {
+        "country_code": "VEN",
+        "Reserves": 9794062064.62,
+        "Debt_GDP_Proxy": 7.27,
+        "Imports": 14910000000.0,
+        "Country_Name": "Venezuela, RB",
+        "Import_Cover": 7.88,
+        "Risk_Score": 4.6
+    },
+    {
+        "country_code": "VNM",
+        "Reserves": 83081854928.12,
+        "Debt_GDP_Proxy": 0.89,
+        "Imports": 380515000000.0,
+        "Country_Name": "Viet Nam",
+        "Import_Cover": 2.62,
+        "Risk_Score": 9.44
+    },
+    {
+        "country_code": "VUT",
+        "Reserves": 614649778.92,
+        "Debt_GDP_Proxy": -5.62,
+        "Imports": 570000000.0,
+        "Country_Name": "Vanuatu",
+        "Import_Cover": 12.94,
+        "Risk_Score": -1.31
+    },
+    {
+        "country_code": "WSM",
+        "Reserves": 507740280.94,
+        "Debt_GDP_Proxy": -17.52,
+        "Imports": 489000000.0,
+        "Country_Name": "Samoa",
+        "Import_Cover": 12.46,
+        "Risk_Score": -1.63
+    },
+    {
+        "country_code": "XKX",
+        "Reserves": 1310096686.96,
+        "Debt_GDP_Proxy": 3.43,
+        "Imports": "N/A",
+        "Country_Name": "Kosovo",
+        "Import_Cover": "N/A",
+        "Risk_Score": 6.23
+    },
+    {
+        "country_code": "YEM",
+        "Reserves": 1250826378.54,
+        "Debt_GDP_Proxy": 21.19,
+        "Imports": 4347000000.0,
+        "Country_Name": "Yemen, Rep.",
+        "Import_Cover": 3.45,
+        "Risk_Score": 9.96
+    },
+    {
+        "country_code": "ZAF",
+        "Reserves": 65434957159.23,
+        "Debt_GDP_Proxy": 4.33,
+        "Imports": 123469000000.0,
+        "Country_Name": "South Africa",
+        "Import_Cover": 6.36,
+        "Risk_Score": 5.93
+    },
+    {
+        "country_code": "ZMB",
+        "Reserves": 3173177777.14,
+        "Debt_GDP_Proxy": 9.06,
+        "Imports": 11194000000.0,
+        "Country_Name": "Zambia",
+        "Import_Cover": 3.4,
+        "Risk_Score": 9.2
+    },
+    {
+        "country_code": "ZWE",
+        "Reserves": 484972804.73,
+        "Debt_GDP_Proxy": 1.44,
+        "Imports": 9499000000.0,
+        "Country_Name": "Zimbabwe",
+        "Import_Cover": 0.61,
+        "Risk_Score": 11.48
+    }
+]

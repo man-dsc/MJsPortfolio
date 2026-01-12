@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Country List</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        input { padding: 10px; width: 100%; margin-bottom: 20px; }
+        .country-card { border: 1px solid #ddd; padding: 10px; margin: 5px 0; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <h1>Country Debt % and Cover as Risk</h1>
+    <input type="text" id="search" placeholder="Filter by country name..." onkeyup="filterData()">
+    <div id="list">Loading data...</div>
+
+    <script>
+        let allCountries = [];
+
+        // Load the data from the auto-generated JSON
+        fetch('/JaysAnalystPortfolio/scraper/data.json')
+            .then(res => res.json())
+            .then(data => {
+                allCountries = data;
+                render(allCountries);
+            });
+        function getRiskColor(score) {
+            if (score === "N/A") return "#888"; // Gray for no data
+            if (score > 15) return "#ff4d4d";   // Red for high risk
+            if (score > 10) return "#ffa500";   // Orange for medium
+            return "#2ecc71";                  // Green for low
+        }
+        function filterData() {
+        const query = document.getElementById('search').value.toLowerCase();
+        const filtered = allCountries.filter(c => 
+            c.Country_Name.toLowerCase().includes(query) || 
+            c.country_code.toLowerCase().includes(query)
+        );
+        render(filtered);
+    }
+
+    function render(items) {
+        const container = document.getElementById('list');
+        container.innerHTML = items.map(c => `
+            <div class="country-card" style="border-left: 10px solid ${getRiskColor(c.Risk_Score)}">
+                <div style="display: flex; justify-content: space-between; align-items: baseline;">
+                    <strong>${c.Country_Name}</strong> 
+                    <small style="color: #999;">${c.country_code}</small>
+                </div>
+                <div style="margin-top: 8px;">
+                    <span style="font-weight: bold; color: ${getRiskColor(c.Risk_Score)}">
+                        Risk Score: ${c.Risk_Score}
+                    </span>
+                </div>
+                <div style="font-size: 0.85em; color: #555; margin-top: 4px;">
+                    Debt: ${c.Debt_GDP_Proxy}% | Cover: ${c.Import_Cover} months
+                </div>
+            </div>
+        `).join('');
+    }
+    </script>
+</body>
+</html>

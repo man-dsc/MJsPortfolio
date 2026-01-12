@@ -19,29 +19,16 @@
 				<div id="header">
 
 					<!-- Inner -->
-						<div class="inner">
+						<!-- <div class="inner">
 							<header>
-								<h1><a href="index.html" id="logo">Jay's Portfolio</a></h1>
+								<h1><a href="index.html" id="logo">MJ's Portfolio</a></h1>
 							</header>
-						</div>
+						</div> -->
 
 					<!-- Nav -->
-					<nav id="nav">
-						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="About.html">About</a></li>
-							<li>
-								<a href="Projects.html">Projects</a>
-								<ul>
-									<li><a href="Projects/CarPrice.html">Car Price Predictor</a></li>
-										<li><a href="Projects/EMR.html">EMR Management</a></li>
-									
-								</ul>
-							</li>
-							<li><a href="Resume.html">Resume</a></li>
-							<li><a href="https://github.com/man-dsc">GitHub</a></li>
-						</ul>
-					</nav>
+						<div id="nav-placeholder"></div>
+						<script src="navbar.js"></script>
+					<!--Nav end-->
 
 				</div>
 
@@ -52,19 +39,47 @@
 						<article id="main" class="special">
 							<header>
 								<h2><a href="#">Recent Projects</a></h2>
-								<p>
+								<!-- <p>
 									Take a look at some of the fun stuff I have been working on!
-								</p>
+								</p> -->
+								<br>
 							</header>
-							<a href="#" class="image featured"><img src="images/Projects.jpg" alt="" /></a>
-							<p>
-								Recently, I’ve been working on projects like a car price predictor, where I analyze market trends to provide accurate valuations, and an EMR data conversion tool to streamline healthcare data management (Python and SKlearn). These projects have reinforced my passion for solving real-world problems with technology. Moving forward, I aim to continue building solutions around my interests, while exploring new areas where data-driven insights can make a meaningful impact.
-							</p>
+							<!-- <a href="#" class="image featured"><img src="images/Projects.jpg" alt="" /></a> -->
+							<!-- <p>
+								Recently, I've been working on projects like a car price predictor, where I analyze market trends to provide accurate valuations, and an EMR data conversion tool to streamline healthcare data management (Python and SKlearn). These projects have reinforced my passion for solving real-world problems with technology. Moving forward, I aim to continue building solutions around my interests, while exploring new areas where data-driven insights can make a meaningful impact.
+							</p> -->
 
 
 						</article>
-						<hr />
+						<!-- <hr /> -->
 						<div class="row">
+							<article class="col-4 col-12-mobile special">
+								<a href="Projects/books.html" class="image featured"><img src="images/books.avif" alt="" /></a>
+								<header>
+									<h3><a href="Projects/books.html">Book Summaries</a></h3>
+								</header>
+								<p>
+									Books I have read with major points highlighted for convenience and recall
+								</p>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="scraper/DataHome.html" class="image featured"><img src="images/investment-tools.jpg" alt="" /></a>
+								<header>
+									<h3><a href="scraper/DataHome.html">Investment Tools</a></h3>
+								</header>
+								<p>
+									Collection of tools for streamling investment
+								</p>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="Projects/MacroResearch.html" class="image featured"><img src="images/pdf.png" alt="" /></a>
+								<header>
+									<h3><a href="Projects/MacroResearch.html">Macro reports</a></h3>
+								</header>
+								<p>
+									Investigations I have completed
+								</p>
+							</article>
 							<article class="col-4 col-12-mobile special">
 								<a href="Projects/EMR.html" class="image featured"><img src="images/EMR.jpg" alt="" /></a>
 								<header>
@@ -72,8 +87,8 @@
 								</header>
 								<p>
 									Transfering to a new EMR can be costly, allowing existing providers to charge exorbitant prices.
-									Using word classification and machine learning, quickly transfer thousands of records to your new EMR.
-									Saving thousands of dollars, and the many hours spent manually classifying data.
+									Using word classification and machine learning, application transfers thousands of records to new EMR.
+									Saving thousands of dollars, and many hours spent manually classifying data.
 									
 								</p>
 							</article>
@@ -83,18 +98,17 @@
 									<h3><a href="Projects/CarPrice.html">Car Valuation Predictor</a></h3>
 								</header>
 								<p>
-									Want to know the market value of your car but don't want to get ripped of by dealers and low-ballers?
-									Arm yourself with the knowledge of what your car is worth, without wasting time scouring the web!
+									Python application with web scraping and ML
 								</p>
 							</article>
 							<article class="col-4 col-12-mobile special">
-								<a href="#" class="image featured"><img src="images/FriendFinder.jpg" alt="" /></a>
+								<a class="image featured"><img src="images/FriendFinder.jpg" alt="" /></a>
 								<header>
-									<h3><a href="#">Friend Finder App - Final Project - Databases</a></h3>
+									<h3><a>Friend Finder App - Final Project - Databases</a></h3>
 								</header>
 								<p>
-									Looking for a doubles partner? What about a goalie for your Tuesday night game?
-									Find someone to play with using the SQL and Node.js application!
+									A proximity-based social app that locates nearby users, 
+									facilitates anonymous mutual matching, and securely exchanges contact information only upon a confirmed connection.
 								</p>
 							</article>
 						</div>
